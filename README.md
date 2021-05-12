@@ -10,6 +10,7 @@ Please run this through Android Studio. To do so, import the project from versio
 
 Here is what the login page looks like:
 
+![Screenshot 2021-05-12 132623](https://user-images.githubusercontent.com/84087330/118019936-92a02f80-b327-11eb-9b96-99b858acb468.png)
 
 ## Disclaimers
 
