@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="prompt">We\'ve Been Expecting\nYou</string>
+    <string name="bg_description">Forest Background Photo by Pok Rie from Pexels</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>
